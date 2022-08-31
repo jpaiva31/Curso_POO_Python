@@ -1,0 +1,5 @@
+Exercício básico de POO pensado por mim, baseado no código da aula 35, utilizando o que foi visto em aula.
+
+O código pode cadastrar várias pessoas, salvando seu nome e idade.
+Podemos escolher quando uma pessoa fala, deixa de falar, come e deixa de comer.
+Se o usuário pedir para a pessoa cadastrada comer enquanto ela tiver falando, o código não permitirá. E vice-versa
